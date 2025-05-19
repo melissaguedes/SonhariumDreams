@@ -35,4 +35,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/melissaguedes/sonhariumdreams.git
+   git clone https://github.com/melissaguedes/SonhariumDreams.git
